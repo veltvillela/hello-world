@@ -1,2 +1,5 @@
 # hello-world
-Just trainning
+
+Hi Peoples!
+
+Roosevelt here, I really like games and music. 
